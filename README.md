@@ -10,6 +10,3 @@ pip install foobar
 ```bash
 pip install foobar
 ```)
-
-[Youtube Video Tutorial Link](https://youtu.be/mhM-blTHBz8)
-# Expense-Tracker
