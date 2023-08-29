@@ -1,5 +1,5 @@
 # ExpensesTracker_MERN_Stack_App
-In this project, we are going to learn how to make expense tracker application using Mongodb, Express, React and Node.
+In this project, we have build expense tracker application using Mongodb, Express, React and Node.
 
 
 #### Cd into Server Folder and Start the Server First. ( make sure you install all node modules using 
